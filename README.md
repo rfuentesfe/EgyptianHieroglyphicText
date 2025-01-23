@@ -3,7 +3,7 @@
 This repository contains the dataset and accompanying resources for the study and recognition of Egyptian hieroglyphic texts. The dataset was developed as part of the research conducted in the following paper:
 
 ## Citation  
-R. Fuentes-Ferrer, J. Duque-Domingo, and P.J. Herrera (2025). *Recognition of Egyptian Hieroglyphic Texts through Focused Generic Segmentation and Cross-Validation Voting*. Applied Soft Computing (accepted for publication).
+R. Fuentes-Ferrer, J. Duque-Domingo, and P.J. Herrera (2025). *Recognition of Egyptian Hieroglyphic Texts through Focused Generic Segmentation and Cross-Validation Voting*. Applied Soft Computing, DOI: https://doi.org/10.1016/j.asoc.2025.112793
 
 ## Dataset  <br>
 Our dataset consists of 310 classes and 13,729 images, representing hieroglyphs on different materials, concretely carved or painted stone stelae. The hieroglyphs have been grouped in folders according to the structure and typology defined by the Egyptologist Gardiner.
